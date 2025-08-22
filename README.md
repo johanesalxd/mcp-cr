@@ -11,8 +11,6 @@ A comprehensive tutorial for deploying a Model Context Protocol (MCP) server to 
 - [Local Development](#local-development)
 - [Cloud Run Deployment](#cloud-run-deployment)
 - [Gemini CLI Setup & Testing](#gemini-cli-setup--testing)
-- [VSCode Development Workflow](#vscode-development-workflow)
-- [Troubleshooting](#troubleshooting)
 
 ## Introduction
 
